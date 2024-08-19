@@ -1,8 +1,7 @@
 ## Film Sitesi
-- Html kullanildi
 
-- Css kullanildi
-
+- Designed using HTML and CSS.
+- Designed with a responsive layout.
 
 ## Gif
 
